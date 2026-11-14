@@ -585,7 +585,7 @@ function parseEntry(e) {
     // Photo filename — value may be a full URL or just the bare filename.
     // Either way we only want the UUID_timestamp.ext part at the end.
     if (typeof v === "string" && /[0-9a-f-]{36}_\d+\.\w+/i.test(v)) {
-      const match = v.match(/([0-9a-f-]{36}_\d+\.\w+)$/i);
+      const match = v.match(/([0-9a-f-]{36}_\d+\.\w+)/i);
       if (match) photoNames.push(match[1]);
     }
 
