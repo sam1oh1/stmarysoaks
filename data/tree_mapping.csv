@@ -1,0 +1,78 @@
+record_id,tree_id,status,confidence,record_date,compared_with,reason,updated
+12328eac-d240-4c8a-a4ec-1d4ed90bd9cb,T001,confirmed,1.00,2025-09-08,,Seeded from known examples,2026-11-15
+5f35eaef-5935-469f-acb3-f75475d34520,T001,confirmed,1.00,2026-05-24,,Seeded from known examples,2026-11-15
+9ef1b973-e540-45ce-af42-407dc3cc0a21,T002,confirmed,1.00,2025-09-08,,Seeded from known examples,2026-11-15
+584c78f1-8568-4376-941c-9692e07efc1b,T002,confirmed,1.00,2026-05-24,,Seeded from known examples,2026-11-15
+63dd338c-0f84-4415-892e-b49fde49afc8,T002,confirmed,1.00,2026-10-10,,Seeded from known examples,2026-11-15
+a3a99820-8a6c-494e-bf26-dc469e5fcdbc,T003,confirmed,1.00,2026-05-24,,Seeded from known examples,2026-11-15
+11aef02c-09bf-4e87-949e-a86931bdd1c0,T003,confirmed,1.00,2026-11-15,,Seeded from known examples,2026-11-15
+19a987cc-59ff-4e46-95c6-df612f947ca5,T004,confirmed,1.00,2025-09-08,,Seeded from known examples,2026-11-15
+a121b105-8d4e-4242-81d7-068b56427292,T004,confirmed,1.00,2026-05-24,,Seeded from known examples,2026-11-15
+ca4f935b-1f1d-46a8-97e3-f0aabcfae3e0,T004,confirmed,1.00,2026-11-15,,Seeded from known examples,2026-11-15
+c61a3d77-9202-4d1e-b5d0-a2a2f52cfef8,T005,confirmed,1.00,2025-09-13,,Seeded from known examples,2026-11-15
+aec0da15-7264-417d-ac30-e1d222fa5565,T005,confirmed,1.00,2026-11-15,,Seeded from known examples,2026-11-15
+c560af4f-9d89-488d-834b-52109286ee80,T006,confirmed,1.00,2026-05-24,,Seeded from known examples,2026-11-15
+ae0287ad-5021-4b53-8b35-f9de12f5f016,T006,confirmed,1.00,2026-11-15,,Seeded from known examples,2026-11-15
+8f8b25d5-2f81-48ac-b7d4-bb5f44e2cd0a,T007,confirmed,1.00,2026-05-24,,Seeded from known examples,2026-11-15
+2e4f7946-8158-4479-8fdd-66639df28e89,T007,confirmed,1.00,2026-11-15,,Seeded from known examples,2026-11-15
+a7d46206-e84e-4482-a740-0b2518c2878b,T008,confirmed,1.00,2026-05-24,,Seeded from known examples,2026-11-15
+e9cda40a-91e5-4386-b7a8-d572fd8a0ace,T008,confirmed,1.00,2026-11-15,,Seeded from known examples,2026-11-15
+6e902095-2570-4a39-8311-6504b32140f2,T009,confirmed,1.00,2025-09-16,,Seeded from known examples,2026-11-15
+c6e8ffcb-92a2-4733-9c1d-c347bb40f9ae,T009,confirmed,1.00,2026-05-24,,Seeded from known examples,2026-11-15
+4fb15ed4-fb55-490b-9db6-34b49d906927,T009,confirmed,1.00,2026-11-15,,Seeded from known examples,2026-11-15
+80cb52b1-603a-4c5b-818d-c0d0f84f6185,T010,confirmed,1.00,2026-03-20,,Seeded from known examples,2026-11-15
+83f99a72-8bf3-4a87-a988-cf2a2373bf60,T010,confirmed,1.00,2026-11-14,,Seeded from known examples,2026-11-15
+d7f49c17-f7af-4e67-85f1-24c1f98aa361,T011,confirmed,1.00,2026-11-14,,Seeded from known examples,2026-11-15
+c719283a-bf4f-4e34-b16f-89b271ef8b8b,T011,confirmed,1.00,2026-11-15,,Seeded from known examples,2026-11-15
+76a3d347-386f-4f10-8ba2-bae55679a5ef,T012,confirmed,1.00,2025-09-13,,Seeded from known examples,2026-11-15
+eba6fc17-6298-4a26-b527-9c9fe5f57a2a,T012,confirmed,1.00,2026-11-14,,Seeded from known examples,2026-11-15
+81218649-2102-45a0-8251-728ef4b2c299,T013,confirmed,1.00,2025-11-25,,Seeded from known examples,2026-11-15
+4a8b214a-9dcd-4724-b7c1-22d672801bde,T013,confirmed,1.00,2026-03-24,,Seeded from known examples,2026-11-15
+fd38b117-f5b5-47d5-907b-058d1215b367,T013,confirmed,1.00,2026-11-14,,Seeded from known examples,2026-11-15
+c81975d4-a89b-4abd-9c25-f731e23cddfe,T014,confirmed,1.00,2025-09-11,,Seeded from known examples,2026-11-15
+fc92f6b1-f4b0-4721-b9f0-5a100a048ed3,T014,confirmed,1.00,2026-05-24,,Seeded from known examples,2026-11-15
+feb5d9e1-2525-4889-99fb-e814f438afb3,T015,confirmed,1.00,2025-09-08,,Seeded from known examples,2026-11-15
+f0eb8f2c-0d8f-4c0c-b312-5b6d1ed245ca,T015,confirmed,1.00,2026-03-24,,Seeded from known examples,2026-11-15
+0004c57e-7108-4023-9096-785ec6fc83fe,T015,confirmed,1.00,2026-11-14,,Seeded from known examples,2026-11-15
+cdbf1e10-96db-48b9-bd85-7267e85840eb,T016,confirmed,1.00,2026-03-24,,Seeded from known examples,2026-11-15
+f0746b31-ab6d-4cd7-bb7a-90dd21e60871,T016,confirmed,1.00,2026-11-14,,Seeded from known examples,2026-11-15
+1ba7641a-dbac-406f-95a1-e78fc5f3af16,T017,confirmed,1.00,2025-09-08,,Seeded from known examples,2026-11-15
+50d5d2c3-43ad-46cb-8949-568499950346,T017,confirmed,1.00,2026-11-15,,Seeded from known examples,2026-11-15
+96fc86b6-ce79-463a-92de-9a7440651199,T018,auto,1.00,2025-09-05,,New tree; no other tree nearby.,2026-11-15
+d7071b62-92d0-4664-b9d4-57fe8c6e03ac,T019,auto,1.00,2025-09-05,,New tree; no other tree nearby.,2026-11-15
+05c3dc89-cb4e-4603-91bb-c01b494cf2da,T020,auto,1.00,2025-09-09,,New tree; no other tree nearby.,2026-11-15
+3f2e385d-bfbb-44fa-bcfe-7ead806e27d8,T021,auto,1.00,2025-09-13,,New tree; no other tree nearby.,2026-11-15
+30d0b263-29a2-453f-9bed-b09a82338aa5,T022,auto,1.00,2025-09-13,,New tree; no other tree nearby. Same-day rule excluded T021.,2026-11-15
+9dc5adc2-0003-45e5-94c5-456d8fb139b6,T023,auto,1.00,2025-09-13,,New tree; no other tree nearby.,2026-11-15
+53c441d2-6abc-4b5c-9191-1de6248b5bb6,T024,auto,1.00,2025-09-13,,New tree; no other tree nearby.,2026-11-15
+bc757bae-47cc-4909-9a74-cc55f04e819c,T025,auto,1.00,2025-09-13,,New tree; no other tree nearby.,2026-11-15
+4322b93e-62ac-4a2a-b06d-afaf3b02baf4,T026,auto,1.00,2025-10-02,,New tree; no other tree nearby.,2026-11-15
+514276b5-421e-48e0-80ef-6c69f87c1dd1,T027,auto,1.00,2025-10-02,,New tree; no other tree nearby. Same-day rule excluded T026.,2026-11-15
+95e04ab6-b05e-426a-a9fc-c327d4c6e526,T028,auto,1.00,2025-10-02,,New tree; no other tree nearby.,2026-11-15
+041ba66f-9033-47ee-8bb8-41af433231df,T029,auto,1.00,2025-10-07,,New tree; no other tree nearby.,2026-11-15
+a70d1e85-e6cb-4c97-9f00-13ee0559f8f3,T030,auto,1.00,2025-10-08,,New tree; no other tree nearby.,2026-11-15
+d0f78e17-4351-404e-b94e-795b98c898e8,T031,auto,1.00,2026-03-16,,New tree; no other tree nearby.,2026-11-15
+847a18ff-3287-4685-8f24-a1abfe4f75da,T032,auto,1.00,2026-03-16,,New tree; no other tree nearby. Same-day rule excluded T031.,2026-11-15
+f4a4e5d6-2cf0-4d07-b69b-26e722fc91d6,T033,auto,1.00,2026-03-20,,New tree; no other tree nearby.,2026-11-15
+4ad68607-361b-4644-8532-d8b2c98147f0,T034,auto,1.00,2026-03-20,,New tree; no other tree nearby. Same-day rule excluded T033.,2026-11-15
+3ae7efa1-1bce-40dd-96f1-3e15bfdfa99e,T035,auto,1.00,2026-05-24,,New tree; no other tree nearby.,2026-11-15
+118779d1-3913-4712-a901-81dd468ddf35,T036,auto,1.00,2026-05-24,,New tree; no other tree nearby. Same-day rule excluded T035.,2026-11-15
+360987d4-1841-46b7-a464-2df78ea4967e,T037,auto,1.00,2026-05-24,,New tree; no other tree nearby.,2026-11-15
+a41b6eac-2944-4012-bf7a-8141283b1e83,T038,auto,1.00,2026-09-23,,New tree; no other tree nearby.,2026-11-15
+c4398d3d-dbc1-424c-acf8-3529a235056f,T039,auto,1.00,2026-09-23,,New tree; no other tree nearby.,2026-11-15
+aa2e5bee-db98-4e27-ac3f-6cadf4e1cb4c,T040,auto,1.00,2026-09-23,,New tree; no other tree nearby.,2026-11-15
+03c2410a-c0be-4b0c-918f-f508c0f0863d,T041,auto,1.00,2026-11-14,,New tree; no other tree nearby.,2026-11-15
+8207bb68-8b84-4201-acb7-3cf1d0e714b4,T042,auto,1.00,2026-11-14,,New tree; no other tree nearby.,2026-11-15
+0f0c8540-f1a6-4ee5-8672-419c6e3af28e,T043,auto,1.00,2026-11-14,,New tree; no other tree nearby.,2026-11-15
+7d48f176-b738-4625-bdcb-d85010cc3785,T044,auto,1.00,2026-11-14,,New tree; no other tree nearby.,2026-11-15
+b51ec6b4-2a28-4031-b321-5f3fa6ee9b91,T045,auto,1.00,2026-11-14,,New tree; no other tree nearby.,2026-11-15
+ed3c6c0f-66f1-4142-9260-f8f954bb09f1,T046,auto,1.00,2026-11-14,,New tree; no other tree nearby. Same-day rule excluded T045.,2026-11-15
+df1656ef-b37f-42b7-881e-518419fe1827,T047,auto,1.00,2026-11-14,,New tree; no other tree nearby. Same-day rule excluded T016.,2026-11-15
+886b3e45-8232-4e7d-8342-22d64f48f773,T048,auto,1.00,2026-11-14,,New tree; no other tree nearby.,2026-11-15
+b59658cb-85e4-4e96-a5f5-a880907f0ba0,T049,auto,1.00,2026-11-14,,New tree; no other tree nearby.,2026-11-15
+fe6938c6-1c71-4892-8212-49de29cf1a88,T050,auto,1.00,2026-11-14,,New tree; no other tree nearby.,2026-11-15
+4d3a187c-5e86-4665-aa1b-948122297942,T051,auto,1.00,2026-11-15,,New tree; no other tree nearby.,2026-11-15
+e48e40af-d5e4-4343-a740-2450c0361755,T052,auto,1.00,2026-11-15,,"New tree; no other tree nearby. Same-day rule excluded T005, T051.",2026-11-15
+228ba96b-a23c-46e5-84c9-9ae336ccf421,T053,auto,1.00,2026-11-15,,New tree; no other tree nearby. Same-day rule excluded T007.,2026-11-15
+207d3d4f-d702-44af-887f-43cfa6f596a6,T054,auto,1.00,2026-11-15,,New tree; no other tree nearby. Same-day rule excluded T007.,2026-11-15
+60bf3f76-bf8e-41b6-9037-4041f6c80820,T055,auto,1.00,2026-11-15,,New tree; no other tree nearby.,2026-11-15

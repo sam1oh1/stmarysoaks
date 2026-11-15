@@ -1,0 +1,10 @@
+{
+  "project_slug": "oak-sapling-recorder",
+  "search_radius_m": 10,
+  "max_lookback": 3,
+  "skip_same_day": true,
+  "min_latitude": 51.81,
+  "same_threshold": 0.75,
+  "different_threshold": 0.25,
+  "photo_max_px": 700
+}
