@@ -1,5 +1,125 @@
 [
  {
+  "a": "05c3dc89-cb4e-4603-91bb-c01b494cf2da",
+  "b": "86ae2ccc-b42e-448e-ad64-db746552ba26",
+  "same_probability": 0.7,
+  "reason": "Same hedge with dark gap left of centre and grey-leaved shrub on right; oak close-ups look alike; 4 days apart",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "1c172593-cc96-406c-9fd3-44dfd3ae198a",
+  "b": "2a5a3431-5a18-48cb-9e6e-db50ffbd0902",
+  "same_probability": 0.35,
+  "reason": "Path on opposite side and different backdrop; new sapling much bushier than old twig",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "1c172593-cc96-406c-9fd3-44dfd3ae198a",
+  "b": "522d0977-1aea-4254-b7be-b007eb037360",
+  "same_probability": 0.15,
+  "reason": "Old photo is rough meadow with brambles, no path or horizon match",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "1c172593-cc96-406c-9fd3-44dfd3ae198a",
+  "b": "d7071b62-92d0-4664-b9d4-57fe8c6e03ac",
+  "same_probability": 0.55,
+  "reason": "Small sapling in grass beside same mown path, 2 m apart; angles differ so unsure",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "1fd0264c-caff-4d97-85b0-f30bc08d0af4",
+  "b": "aec0da15-7264-417d-ac30-e1d222fa5565",
+  "same_probability": 0.35,
+  "reason": "Aspen stems left in May may match bare trees in Nov but no clear fixed feature",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "1fd0264c-caff-4d97-85b0-f30bc08d0af4",
+  "b": "c61a3d77-9202-4d1e-b5d0-a2a2f52cfef8",
+  "same_probability": 0.3,
+  "reason": "Same aspen hedge type but old close-up shows no oak; 12.8 m apart",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "2a5a3431-5a18-48cb-9e6e-db50ffbd0902",
+  "b": "522d0977-1aea-4254-b7be-b007eb037360",
+  "same_probability": 0.25,
+  "reason": "Old photo is rough meadow with no visible match",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "2a5a3431-5a18-48cb-9e6e-db50ffbd0902",
+  "b": "d7071b62-92d0-4664-b9d4-57fe8c6e03ac",
+  "same_probability": 0.92,
+  "reason": "Same oak with long diagonal branch to right, same woodland backdrop, grown bushier",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "2e30d4f7-7368-498e-a54a-452dd505bd11",
+  "b": "67aa6b34-35ca-40b8-82b0-45a13b45ceb1",
+  "same_probability": 0.4,
+  "reason": "Same hedge base with oak at foot; old seedling much smaller, cannot confirm",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "2e4f7946-8158-4479-8fdd-66639df28e89",
+  "b": "86951f98-2b4f-4fe8-9cec-84101138dcb2",
+  "same_probability": 0.25,
+  "reason": "Setting not clearly matching; different hedge profile, 12.7 m away",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "2f8ed56a-4ed6-46f8-8c18-c36d6a48d23e",
+  "b": "e18dbf5a-57aa-44af-bcf9-8ef5bde51e8a",
+  "same_probability": 0.6,
+  "reason": "Grey shrub on right and dark trunks upper-left in both close-ups; oak at same spot but old one is small",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "2f8ed56a-4ed6-46f8-8c18-c36d6a48d23e",
+  "b": "f1d1d7df-71c3-4530-aa05-aa1c114cd502",
+  "same_probability": 0.15,
+  "reason": "Old close-up is a low oak in open grass, different structure and surroundings",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "30d0b263-29a2-453f-9bed-b09a82338aa5",
+  "b": "71039e4a-3c59-4c31-b418-f829851c8834",
+  "same_probability": 0.85,
+  "reason": "Same double-stemmed willow with second tree behind and same field; sapling at base",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "3f2e385d-bfbb-44fa-bcfe-7ead806e27d8",
+  "b": "60ef585b-22f7-451f-b2dc-c8f37e0c3e99",
+  "same_probability": 0.9,
+  "reason": "Same willow trunk with left-leaning fork and same field behind",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "4322b93e-62ac-4a2a-b06d-afaf3b02baf4",
+  "b": "d5e6af6c-1802-49e5-a0f5-e764573437f5",
+  "same_probability": 0.93,
+  "reason": "Same hawthorn hedge, same tall tree behind and oak leader rising above hedge at same spot",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
   "a": "4d3a187c-5e86-4665-aa1b-948122297942",
   "b": "e48e40af-d5e4-4343-a740-2450c0361755",
   "same_probability": 0.0,
@@ -8,11 +128,131 @@
   "date": "2026-11-15"
  },
  {
+  "a": "514276b5-421e-48e0-80ef-6c69f87c1dd1",
+  "b": "709f9388-52f4-406f-8e3c-d33952ea9330",
+  "same_probability": 0.85,
+  "reason": "Same hedge with tall tree at left; small sapling at same spot in centre",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "514276b5-421e-48e0-80ef-6c69f87c1dd1",
+  "b": "c2a6e4b0-d12c-4cc1-9315-967b54c98612",
+  "same_probability": 0.05,
+  "reason": "Tall tree and leader in different positions",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "514276b5-421e-48e0-80ef-6c69f87c1dd1",
+  "b": "d5e6af6c-1802-49e5-a0f5-e764573437f5",
+  "same_probability": 0.15,
+  "reason": "Same hedge but tall tree in different position and no leader visible",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "522d0977-1aea-4254-b7be-b007eb037360",
+  "b": "d7071b62-92d0-4664-b9d4-57fe8c6e03ac",
+  "same_probability": 0.3,
+  "reason": "Open rough meadow vs path with poplars; no shared features visible",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "5f35eaef-5935-469f-acb3-f75475d34520",
+  "b": "601c8435-821e-4fe6-88e8-42965d7d7528",
+  "same_probability": 0.1,
+  "reason": "Setting clearly differs: plain hedge against sky vs tall sapling among brambles",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
   "a": "601c8435-821e-4fe6-88e8-42965d7d7528",
   "b": "9ef1b973-e540-45ce-af42-407dc3cc0a21",
   "same_probability": 0.0,
   "reason": "Known different trees (human)",
   "source": "human",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "65b1f512-2249-4870-b47a-23a051f3142c",
+  "b": "9dc5adc2-0003-45e5-94c5-456d8fb139b6",
+  "same_probability": 0.5,
+  "reason": "Similar willow trunk and field but adjacent willows look alike; path not visible in new photo",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "67aa6b34-35ca-40b8-82b0-45a13b45ceb1",
+  "b": "aaf629c3-5a04-4c5a-96bf-64faf0da8891",
+  "same_probability": 0.4,
+  "reason": "Same hedge-bottom vegetation type, 2.7 m apart but no distinctive match",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "67aa6b34-35ca-40b8-82b0-45a13b45ceb1",
+  "b": "e18dbf5a-57aa-44af-bcf9-8ef5bde51e8a",
+  "same_probability": 0.2,
+  "reason": "Old photo shows a tiny seedling in leaf litter, not matching a bushy oak",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "67aa6b34-35ca-40b8-82b0-45a13b45ceb1",
+  "b": "f1d1d7df-71c3-4530-aa05-aa1c114cd502",
+  "same_probability": 0.1,
+  "reason": "Different hedge/tree shape; old photo shows brambles and cow parsley",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "86951f98-2b4f-4fe8-9cec-84101138dcb2",
+  "b": "ae0287ad-5021-4b53-8b35-f9de12f5f016",
+  "same_probability": 0.35,
+  "reason": "Seasons differ; new photo shows no clear oak, setting not clearly matching (no power lines visible)",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "86951f98-2b4f-4fe8-9cec-84101138dcb2",
+  "b": "c560af4f-9d89-488d-834b-52109286ee80",
+  "same_probability": 0.5,
+  "reason": "Both dense hedge with aspen-like leaves; no distinctive fixed feature to confirm",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "86ae2ccc-b42e-448e-ad64-db746552ba26",
+  "b": "aaf629c3-5a04-4c5a-96bf-64faf0da8891",
+  "same_probability": 0.1,
+  "reason": "New photo is tiny oak seedling in cow parsley; old is established oak in hedge",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "86ae2ccc-b42e-448e-ad64-db746552ba26",
+  "b": "f1d1d7df-71c3-4530-aa05-aa1c114cd502",
+  "same_probability": 0.85,
+  "reason": "Same hedge with grey shrub on right and dark gap left; oak close-up has same horizontal forked branch on right",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "96fc86b6-ce79-463a-92de-9a7440651199",
+  "b": "d9daf57b-fe7c-41a9-b181-12d3afc0d87a",
+  "same_probability": 0.5,
+  "reason": "Hedge and willow plausibly same stretch; sapling in old photo tiny in grass, cannot confirm",
+  "source": "claude",
+  "date": "2026-11-15"
+ },
+ {
+  "a": "c2a6e4b0-d12c-4cc1-9315-967b54c98612",
+  "b": "d5e6af6c-1802-49e5-a0f5-e764573437f5",
+  "same_probability": 0.95,
+  "reason": "Same hedge, leader and tall bare tree beside it; autumn colour",
+  "source": "claude",
   "date": "2026-11-15"
  },
  {
