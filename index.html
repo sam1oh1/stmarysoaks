@@ -452,7 +452,7 @@
   <div class="map-wrap">
     <div id="map-loading">
       <div class="spinner"></div>
-      <span>Loading sapling data…</span>
+      <span>Loading young oak data…</span>
     </div>
     <div id="map"></div>
 
@@ -460,7 +460,7 @@
     <div id="photo-panel">
       <div class="photo-panel-header">
         <div>
-          <div class="photo-panel-title" id="panel-title">Sapling</div>
+          <div class="photo-panel-title" id="panel-title">Young oak</div>
           <div class="photo-panel-coords" id="panel-coords"></div>
         </div>
         <button class="panel-close" id="panel-close" title="Close">✕</button>
@@ -490,7 +490,7 @@
     How to Help
   </div>
   <h2 class="instructions-intro">Submitting photos using the Epicollect5 app</h2>
-  <p class="instructions-sub">We use the free <strong>Epicollect5</strong> app to collect photos and location data for each sapling. Follow the steps below — it only takes a few minutes to set up.</p>
+  <p class="instructions-sub">We use the free <strong>Epicollect5</strong> app to collect photos and location data for each young oak. Follow the steps below — it only takes a few minutes to set up.</p>
 
   <div class="steps">
 
@@ -532,9 +532,9 @@
       <div class="step-line"></div>
       <div class="step-num">3</div>
       <div class="step-content">
-        <h3 class="step-title">Find a sapling on the map</h3>
+        <h3 class="step-title">Find a young oak on the map</h3>
         <div class="step-body">
-          <p>Use the interactive map above to find an oak sapling near you. Once you've located a tree, open the app, tap <strong>Oak Sapling Recorder</strong>, then tap <strong>Add Entry</strong>.</p>
+          <p>Use the interactive map above to find a young oak near you. Once you've located a tree, open the app, tap <strong>Oak Sapling Recorder</strong>, then tap <strong>Add Entry</strong>.</p>
         </div>
       </div>
     </div>
@@ -546,7 +546,7 @@
         <h3 class="step-title">Fill in the survey form</h3>
         <div class="step-body">
           <p>📍 <strong>Location</strong> — the app captures your GPS position automatically.</p>
-          <p>📷 <strong>Photo</strong> — take a clear photo of the sapling, ideally showing the whole tree.</p>
+          <p>📷 <strong>Photo</strong> — take a clear photo of the young oak, ideally showing the whole tree.</p>
           <p>📝 <strong>Notes</strong> — any observations about the tree's condition (e.g. healthy, browsed by deer, damaged).</p>
         </div>
       </div>
@@ -712,7 +712,7 @@ function buildTrees(entries, mapping) {
     t.lat = t.records.reduce((s, r) => s + r.lat, 0) / t.records.length;
     t.lng = t.records.reduce((s, r) => s + r.lng, 0) / t.records.length;
     const visits = t.records.length === 1 ? "1 visit" : `${t.records.length} visits`;
-    t.label = t.treeId ? `Tree ${t.treeId} · ${visits}` : "Sapling (new record, not yet grouped)";
+    t.label = t.treeId ? `Tree ${t.treeId} · ${visits}` : "Young oak (new record, not yet grouped)";
     trees.push(t);
   }
   return unmapped;
@@ -871,7 +871,7 @@ function placeMarkers(unmapped) {
   const records = trees.reduce((s, t) => s + t.records.length, 0);
   const noCoords = allEntries.filter(e => e.lat === null).length;
   document.getElementById("entry-count").textContent =
-    `${markers.length} saplings mapped from ${records} records` +
+    `${markers.length} young oaks mapped from ${records} records` +
     (unmapped ? ` · ${unmapped} new record${unmapped > 1 ? "s" : ""} not yet grouped` : "") +
     (noCoords ? ` · ${noCoords} without coordinates` : "");
 }
